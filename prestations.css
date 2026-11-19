@@ -1,0 +1,23 @@
+.header{
+    background: #09091c;
+    color: #ffffff; 
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-left: 0rem;
+    margin-right: 0rem;
+
+}
+
+.nav{
+    background: #2EADFF;
+    color: #ffffff; 
+}
+
+.logo{
+    width: 25rem;
+    height: auto;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
